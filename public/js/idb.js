@@ -63,7 +63,7 @@ function uploadBudget() {
 
           transactionObjectStore.clear();
 
-          console.log('Saved transactions have been submitted.');
+          // console.log('Saved transactions have been submitted.');
         })
         .catch(err => console.log(err));
     }
