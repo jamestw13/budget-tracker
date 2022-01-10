@@ -16,4 +16,5 @@ A simple budget tracking application with offline access and functionality. User
 - Node.js
 - Morgan
 - Heroku
-
+## Screenshot
+![Budget Tracker Screenshot](https://github.com/jamestw13/budget-tracker/blob/main/Budget%20Tracker%20Screenshot.png)
